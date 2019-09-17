@@ -1,0 +1,5 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.tron.log($END$)" description="console.tron.log()" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
