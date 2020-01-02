@@ -8,12 +8,6 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rnstyle" value="import { StyleSheet } from 'react-native';&#10;import { Colors, Fonts } from 'constants';&#10;import { getPixel } from 'utils/viewport';&#10;&#10;export default StyleSheet.create({&#10;  container: {&#10;    flex: 1,&#10;  },&#10;});" description="Create React Native Style" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="ES6_STATEMENT" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
-  </template>
   <template name="rncomponent" value="import React, { PureComponent, ReactNode } from 'react';&#10;import { View } from 'react-native';&#10;&#10;import styles from './$ComponentName$.styles';&#10;&#10;interface IProps {}&#10;&#10;export default class $ComponentName$ extends PureComponent&lt;IProps&gt; {&#10;  static defaultProps: Partial&lt;IProps&gt; = {};&#10;&#10;  constructor(props: IProps) {&#10;    super(props);&#10;  }&#10;&#10;  render(): ReactNode {&#10;    return (&#10;      &lt;View style={styles.container}&gt;&#10;      &lt;/View&gt;&#10;    );&#10;  }&#10;}&#10;" description="Creates a React Native pureComponent" toReformat="false" toShortenFQNames="true">
     <variable name="ComponentName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
