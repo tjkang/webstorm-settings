@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".madgerc" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
