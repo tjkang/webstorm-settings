@@ -34,7 +34,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="rnstyle-ym" value="import { StyleSheet } from 'react-native';&#10;import { Colors, Fonts } from 'ymconstants';&#10;import { getPixel } from 'utils/viewport';&#10;&#10;export default StyleSheet.create({&#10;  container: {&#10;    flex: 1,&#10;  },&#10;});" description="Creates a React Native Stylesheet" toReformat="true" toShortenFQNames="true">
+  <template name="rnstyle-ym" value="import { StyleSheet } from 'react-native';&#10;import { Colors, Fonts } from 'ymconstants';&#10;import { getPixel } from 'utils/Viewport';&#10;&#10;export default StyleSheet.create({&#10;  container: {&#10;    flex: 1,&#10;  },&#10;});" description="Creates a React Native Stylesheet" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
