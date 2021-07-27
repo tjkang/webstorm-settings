@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="untitled" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".madgerc" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="react-native-ironsource.d.ts" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
-      <mapping pattern=".madgerc" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping pattern="index" type="TypeScript" />
       <mapping pattern="VerifyEmailWithReferral" type="TypeScript JSX" />
