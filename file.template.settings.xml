@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Ts File.ts" reformat="true" live-template-enabled="true" />
+      <template name="Tsx File.tsx" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
